@@ -1,6 +1,8 @@
 
-everis - teste
-==============
+everis
+======
+Teste
+-----
 1. Escrever um cenário de testes que valida os valores no carrinho de um produto no website: My Store (automationpractice.com) (Se a automação for feito utilizando a linguagem gherkin, não é necessário fazer esse exercício)
 2. Automatizar um fluxo que valida o valor total da compra na tela 01.Summary
 3. Automatizar um get no endpoint https://httpbin.org/get e validar o atributo: url da resposta
@@ -14,7 +16,7 @@ Ferramentas e linguagens permitidas:
 - Recomendado: Cucumber ou outras ferramentas voltadas para BDD
 
 
-Implementação:
+Implementação 1:
 --------------
 Implementado em BDD com Robot Framework
  - Interpretador: Python 3.7.9
