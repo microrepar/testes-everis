@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Valida os valores de um produto no carrinho
+Documentation       Valida o valor total do carrinho
 
 Resource    ../resources/base_selenium.robot
 # Resource    ../resources/base_browser.robot

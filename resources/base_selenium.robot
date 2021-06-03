@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Valida o valor total da compra no carrinho
+Documentation       Implementa os passos para execucao do teste de validacao do valor total do carrinho
 
 Library     SeleniumLibrary
 
